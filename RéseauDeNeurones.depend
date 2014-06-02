@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1397197080 source:d:\c++\réseaudeneurones\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<cmath>
+	<fstream>
+	<sstream>
+
+1397206323 source:h:\projets\réseaudeneurones\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<cmath>
+	<fstream>
+	<sstream>
+
